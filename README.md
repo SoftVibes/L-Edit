@@ -1,8 +1,8 @@
 # L-Edit
 ## Created with the much needed companionship of Souhardya Basu, Shreshtha Choudhury & Prachurjo Dutta Roy (they contributed to more or less 20 lines of code, none of which was ultimately used, the companionship helped tho)
 
-**Pocha Text Editor
-**Also my 12th grade AISSCE CS Project (a bit of an overkill for something so meagre)
+**Pocha Text Editor**
+**Also my 12th grade AISSCE CS Project (a bit of an overkill for something so meagre)**
 
 ---
 
@@ -20,6 +20,8 @@ Press enter to start editing the selected file from the files list. Go back to f
 Killing the program while having files open in the files list will save them into a MySQL database and load them up the next time you open the program (yes this is convoluted, yes this will be updated)
 
 ---
+
+**Shortcuts Overview**
 
 `CTRL+E` - Explorer mode, navigate through directories and find your files and add them to the files list
 <br>
@@ -41,4 +43,5 @@ Killing the program while having files open in the files list will save them int
 - Settings file to edit color codes, toggle usage of MySQL to store unsaved files, etc.
 - Create and import external plugins (a very distant dream)
 
-[^1]: Made with ❤ in Kolkata, India
+
+Made with ❤ in Kolkata, India
