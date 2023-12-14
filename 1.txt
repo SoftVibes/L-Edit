@@ -1,4 +1,0 @@
-hello world
-this is the first file that is being edited with L-Edit, a truly historic event
-
-
