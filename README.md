@@ -1,8 +1,8 @@
 # L-Edit
 ## Created with the much needed companionship of Souhardya Basu, Shreshtha Choudhury & Prachurjo Dutta Roy (they contributed to more or less 20 lines of code, none of which was ultimately used, the companionship helped tho)
 
-**Pocha Text Editor**
-**Also my 12th grade AISSCE CS Project (a bit of an overkill for something so meagre)**
+__Pocha Text Editor__
+__Also my 12th grade AISSCE CS Project (a bit of an overkill for something so meagre)__
 
 ---
 
@@ -21,7 +21,7 @@ Killing the program while having files open in the files list will save them int
 
 ---
 
-**Shortcuts Overview**
+__Shortcuts Overview__
 
 `CTRL+E` - Explorer mode, navigate through directories and find your files and add them to the files list
 <br>
@@ -37,7 +37,8 @@ Killing the program while having files open in the files list will save them int
 
 ---
 
-**Features yet to be implemented**
+__Features yet to be implemented__
+
 - Internal cut copy feature (use system's cut copy methods for now)
 - Find and replace feature
 - Settings file to edit color codes, toggle usage of MySQL to store unsaved files, etc.
