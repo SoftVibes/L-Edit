@@ -22,7 +22,7 @@ Killing the program while having files open in the files list will save them int
 
 ---
 
-#### Shortcuts Overview
+### Shortcuts Overview
 
 `CTRL+E` - Explorer mode, navigate through directories and find your files and add them to the files list
 <br>
@@ -38,7 +38,7 @@ Killing the program while having files open in the files list will save them int
 
 ---
 
-#### Features yet to be implemented
+### Features yet to be implemented
 
 - Internal cut copy feature (use system's cut copy methods for now)
 - Find and replace feature
