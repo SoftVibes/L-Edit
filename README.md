@@ -1,11 +1,8 @@
 # L-Edit
 ## Created with the much needed companionship of Souhardya Basu, Shreshtha Choudhury & Prachurjo Dutta Roy (they contributed to more or less 20 lines of code, none of which was ultimately used, the companionship helped tho)
 
----
----
-
-# Pocha Text Editor
-## Also my 12th grade AISSCE CS Project (a bit of an overkill for something so meagre) **
+**Pocha Text Editor
+**Also my 12th grade AISSCE CS Project (a bit of an overkill for something so meagre)
 
 ---
 
@@ -25,10 +22,15 @@ Killing the program while having files open in the files list will save them int
 ---
 
 `CTRL+E` - Explorer mode, navigate through directories and find your files and add them to the files list
+<br>
 `<` - Go up a directory, i.e. to the parent directory of the directory you are in
+<br>
 `>` - Go down into the highlighted directory
+<br>
 `CTRL+F` - Files list, view the files you have listed for editing
+<br>
 `Enter` - Start editing the highlighted file
+<br>
 `CTRL+X` - Save and close the file you're editing if it's open, kill the entire program if you're in explorer or files list
 
 ---
