@@ -1,9 +1,8 @@
 # L-Edit
 ### Created with the much needed companionship of Souhardya Basu, Shreshtha Choudhury & Prachurjo Dutta Roy (they contributed to more or less 20 lines of code, none of which was ultimately used, the companionship helped tho)
 
-<h6>Pocha Text Editor</h6>
-<br>
-<h6>Also my 12th grade AISSCE CS Project (a bit of an overkill for something so meagre)</h6>
+<h4>Pocha Text Editor</h4>
+<h4>Also my 12th grade AISSCE CS Project (a bit of an overkill for something so meagre)</h4>
 
 ---
 
@@ -15,7 +14,7 @@
 
 ---
 
-### How to use boildown
+### How to use - boildown
 
 You need to have Python installed and the respective curses package for your OS.
 It has a built-in directory navigating system, opens the file explorer on startup, find the current working directory on top left. Find shortcuts on the bottom.
