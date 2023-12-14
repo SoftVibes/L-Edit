@@ -2,6 +2,7 @@
 ## Created with the much needed companionship of Souhardya Basu, Shreshtha Choudhury & Prachurjo Dutta Roy (they contributed to more or less 20 lines of code, none of which was ultimately used, the companionship helped tho)
 
 __Pocha Text Editor__
+<br>
 __Also my 12th grade AISSCE CS Project (a bit of an overkill for something so meagre)__
 
 ---
@@ -21,7 +22,7 @@ Killing the program while having files open in the files list will save them int
 
 ---
 
-__Shortcuts Overview__
+#### Shortcuts Overview
 
 `CTRL+E` - Explorer mode, navigate through directories and find your files and add them to the files list
 <br>
@@ -37,7 +38,7 @@ __Shortcuts Overview__
 
 ---
 
-__Features yet to be implemented__
+#### Features yet to be implemented
 
 - Internal cut copy feature (use system's cut copy methods for now)
 - Find and replace feature
