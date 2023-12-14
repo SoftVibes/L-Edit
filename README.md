@@ -1,17 +1,21 @@
 # L-Edit
-## Created with the much needed companionship of Souhardya Basu, Shreshtha Choudhury & Prachurjo Dutta Roy (they contributed to more or less 20 lines of code, none of which was ultimately used, the companionship helped tho)
+### Created with the much needed companionship of Souhardya Basu, Shreshtha Choudhury & Prachurjo Dutta Roy (they contributed to more or less 20 lines of code, none of which was ultimately used, the companionship helped tho)
 
-__Pocha Text Editor__
+<h6>Pocha Text Editor</h6>
 <br>
-__Also my 12th grade AISSCE CS Project (a bit of an overkill for something so meagre)__
+<h6>Also my 12th grade AISSCE CS Project (a bit of an overkill for something so meagre)</h6>
 
 ---
+
+### Basic Overview
 
 - Made with Python and the curses module
 - Has only been tested on Linux (yet)
 - Will make some updates and push them when I get the time and energy
 
 ---
+
+### How to use boildown
 
 You need to have Python installed and the respective curses package for your OS.
 It has a built-in directory navigating system, opens the file explorer on startup, find the current working directory on top left. Find shortcuts on the bottom.
@@ -22,7 +26,7 @@ Killing the program while having files open in the files list will save them int
 
 ---
 
-### Shortcuts Overview
+### Shortcuts
 
 `CTRL+E` - Explorer mode, navigate through directories and find your files and add them to the files list
 <br>
